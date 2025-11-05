@@ -16,7 +16,7 @@
                     <Collection>
                         <PropertyPath>SupplierID</PropertyPath>
                         <PropertyPath>Discontinued</PropertyPath>
-                        <PropertyPath>ProductName</PropertyPath>
+                        <PropertyPath>ProductID</PropertyPath>
                     </Collection>
                 </Annotation>
                 <Annotation Term="UI.LineItem">
